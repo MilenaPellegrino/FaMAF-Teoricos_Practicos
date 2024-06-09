@@ -1,3 +1,6 @@
 [submodule "AyED II/AyED2"]
 	path = AyED II/AyED2
 	url = https://github.com/MilenaPellegrino/AyED2.git
+[submodule "Org. Del Computador/lab2/lab2"]
+	path = Org. Del Computador/lab2/lab2
+	url = https://github.com/MilenaPellegrino/Lab2-OdC
