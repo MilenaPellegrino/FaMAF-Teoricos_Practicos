@@ -4,3 +4,6 @@
 [submodule "Org. Del Computador/lab2/lab2"]
 	path = Org. Del Computador/lab2/lab2
 	url = https://github.com/MilenaPellegrino/Lab2-OdC
+[submodule "Sist. Operativos/SistOp"]
+	path = Sist. Operativos/SistOp
+	url = https://github.com/MilenaPellegrino/SistOp.git
